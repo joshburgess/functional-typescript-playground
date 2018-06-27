@@ -1,6 +1,6 @@
 ## Functional TypeScript Playground
 
-A create-react-app based boilerplate featuring great functional programming oriented TypeScript-friendly libraries preinstalled for your convenience
+A create-react-app based boilerplate featuring great functional programming oriented TypeScript-friendly libraries preinstalled for convenient forking & experimentation
 
 #### Purpose:
 
