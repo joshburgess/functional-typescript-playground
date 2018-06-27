@@ -5757,6 +5757,13 @@ monolite@^0.4.6:
   version "0.4.6"
   resolved "https://registry.yarnpkg.com/monolite/-/monolite-0.4.6.tgz#26fd7e858ebf5c019c4ad1f40024f2a1567bc83e"
 
+most-proxy@^3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/most-proxy/-/most-proxy-3.3.0.tgz#ae36ce38c4889cd41b6784ce4606df54a2fbe9e8"
+  dependencies:
+    "@most/multicast" "^1.2.4"
+    most "^1.1.0"
+
 most-subject@^5.2.0, most-subject@^5.3.0:
   version "5.3.0"
   resolved "https://registry.yarnpkg.com/most-subject/-/most-subject-5.3.0.tgz#3a6e3efd436fa93bd8b33c2a239c9088230a6102"
@@ -5764,6 +5771,14 @@ most-subject@^5.2.0, most-subject@^5.3.0:
     "@most/multicast" "^1.2.4"
     "@most/prelude" "^1.4.1"
     most "^1.1.0"
+
+most-subject@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/most-subject/-/most-subject-6.0.0.tgz#f56bb5ca2289811c8e1b25993417cbcbc0f33911"
+  dependencies:
+    "@most/core" "0.14.0"
+    "@most/prelude" "1.6.4"
+    "@most/types" "0.11.1"
 
 most@1.5.x:
   version "1.5.1"
