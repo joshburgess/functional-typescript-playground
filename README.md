@@ -13,6 +13,7 @@ A create-react-app based boilerplate featuring great functional programming orie
 ```
 "167": "^0.43.0",
 "@atomic-object/lenses": "^0.1.4",
+"@briancavalier/most-behavior": "^2.0.0",
 "@cycle/dom": "^20.4.0",
 "@cycle/history": "^6.10.0",
 "@cycle/html": "^2.4.0",
@@ -28,6 +29,7 @@ A create-react-app based boilerplate featuring great functional programming orie
 "@funkia/turbine": "^0.1.6",
 "@most/core": "^1.3.0",
 "@most/scheduler": "^1.2.0",
+"@most/types": "^1.0.0",
 "@motorcycle/dom": "^17.0.0",
 "@motorcycle/mostly-dom": "^5.0.0",
 "@motorcycle/run": "^5.0.0",
