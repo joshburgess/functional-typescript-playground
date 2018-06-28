@@ -7497,6 +7497,12 @@ redux-observable@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/redux-observable/-/redux-observable-1.0.0.tgz#780ff2455493eedcef806616fe286b454fd15d91"
 
+redux-typed-actions@^0.1.5:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/redux-typed-actions/-/redux-typed-actions-0.1.5.tgz#daafd4b38cf76b78c27c822c80924830ceb5c2eb"
+  dependencies:
+    typescript ">=2.3.0"
+
 redux@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/redux/-/redux-4.0.0.tgz#aa698a92b729315d22b34a0553d7e6533555cc03"
@@ -8638,6 +8644,14 @@ trim-right@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/trim-right/-/trim-right-1.0.1.tgz#cb2e1203067e0c8de1f614094b9fe45704ea6003"
 
+ts-action-operators@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/ts-action-operators/-/ts-action-operators-7.0.0.tgz#8a5cd0982937e7496928ec259ccf71e644f6529d"
+
+ts-action@^6.0.2:
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/ts-action/-/ts-action-6.0.2.tgz#9451cef91faf3aad868de5406209c606ba28128e"
+
 ts-jest@22.0.1:
   version "22.0.1"
   resolved "https://registry.yarnpkg.com/ts-jest/-/ts-jest-22.0.1.tgz#48942936a466c2e76e259b02e2f1356f1839afc3"
@@ -8777,7 +8791,7 @@ typelevel-ts@^0.3.1:
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/typelevel-ts/-/typelevel-ts-0.3.1.tgz#05aec16b3437d6b04a073c9036f9f5ae24ec359d"
 
-typescript@^2.7.1, typescript@^2.9.2:
+typescript@>=2.3.0, typescript@^2.7.1, typescript@^2.9.2:
   version "2.9.2"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.9.2.tgz#1cbf61d05d6b96269244eb6a3bce4bd914e0f00c"
 
