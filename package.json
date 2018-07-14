@@ -109,6 +109,7 @@
     "redux-most": "^0.7.0",
     "redux-observable": "^1.0.0",
     "redux-typed-actions": "^0.1.5",
+    "retry-ts": "^0.0.1",
     "runtypes": "^2.0.6",
     "rxjs": "^6.2.1",
     "snabbdom": "^0.7.1",
