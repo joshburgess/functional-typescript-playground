@@ -74,6 +74,7 @@
     "@types/koa": "^2.0.46",
     "@types/koa-bodyparser": "^5.0.0",
     "@types/ramda": "^0.25.34",
+    "alga-ts": "^1.0.1",
     "assertion-error-diff": "^1.0.0",
     "collectable": "^0.31.0",
     "create-react-class": "^15.6.3",
