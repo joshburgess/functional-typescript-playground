@@ -7442,6 +7442,13 @@ monolite@^0.8.0:
   resolved "https://registry.yarnpkg.com/monolite/-/monolite-0.8.0.tgz#05fda75fefe018de16ce604357351b28cd5b20df"
   integrity sha512-IQlv+l0KOnOQg6bGJmecbEAXiPgmuSXef2agBfplQFqrQvlJDeLd0YekGF+JxfZQY7ceqmUnv6doz6R0e2zZHA==
 
+morphic-ts@^0.8.0-rc.2:
+  version "0.8.0-rc.2"
+  resolved "https://registry.yarnpkg.com/morphic-ts/-/morphic-ts-0.8.0-rc.2.tgz#f1c668ed443e57eea1d4e52a9071136786ce8654"
+  integrity sha512-0fVfV1C9OoqLeftWJ6ACH/0Z0Vkyka3CSIu8VJsfpgZGTb/RVcRm0WQoQqs8VykASdsSSN0A5iuILKMSr9eSBw==
+  dependencies:
+    tslib "^1.10.0"
+
 most-proxy@^3.3.0:
   version "3.3.0"
   resolved "https://registry.yarnpkg.com/most-proxy/-/most-proxy-3.3.0.tgz#ae36ce38c4889cd41b6784ce4606df54a2fbe9e8"

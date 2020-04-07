@@ -113,6 +113,7 @@
     "monix": "^0.0.3",
     "monocle-ts": "^2.1.0",
     "monolite": "^0.8.0",
+    "morphic-ts": "^0.8.0-rc.2",
     "most": "^1.8.0",
     "most-proxy": "^3.3.0",
     "most-subject": "^6.0.0",
