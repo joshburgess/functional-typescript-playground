@@ -79,7 +79,7 @@
     "collectable": "^0.31.0",
     "create-react-class": "^15.6.3",
     "elm-ts": "^0.5.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fearless-io": "^16.2.1",
     "fluture": "^12.2.0",
     "fp-ts": "^2.5.3",
